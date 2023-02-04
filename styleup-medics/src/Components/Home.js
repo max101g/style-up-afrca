@@ -15,9 +15,11 @@ function Home() {
                     <h3 className='text'>Styleup Physio And Medics</h3>
                 </div>
                 <div className='card-content'>
-                    <h5 className="card-title">Card title</h5>
-                    <p className="card-text">Style-up Physio and Medics is an organization that aims to infuse the principles of modern</p>
-                    <p className="card-text">Last updated 3 mins ago</p>
+                    <h5 className="card-title">Welcome to the future of Africa's health</h5>
+                    <p className="card-text">Style-up Physio and Medics is an organization that aims to infuse the principles of modern medicine</p>
+                    <p className="card-text">with the principles of modern rehabilitative medicine. In doiing so, the organization envisions to </p>
+                    <p className="card-text">create a new yet affordable and efficient culture within the medical space in Africa. We believe that</p>
+                    <p className="card-text">the healthcare system depicts how the community feels, looks and also its productivity</p>
                 </div>
             </div>
         </div>
